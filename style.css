@@ -114,7 +114,7 @@ li:hover {
 .page4 {
   height: 100vh;
   text-align: center;
-  background-image: linear-gradient(to bottom, white, rgb(224, 224, 224));
+  background-image: linear-gradient(to bottom, white, rgb(232, 239, 255));
   background-color: white;
   color: blue;
 }
